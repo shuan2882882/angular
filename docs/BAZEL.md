@@ -1,4 +1,4 @@
-# Building Angular with Bazel
+## Building Angular with Bazel
 
 Note: this doc is for developing Angular, it is _not_ public
 documentation for building an Angular application with Bazel.
